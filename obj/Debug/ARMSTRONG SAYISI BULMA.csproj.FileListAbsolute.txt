@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\gorselprogramlama1\ARMSTRONG SAYISI BULMA\bin\Debug\ARMSTRONG SAYISI BULMA.exe.config
+C:\Users\user\Desktop\gorselprogramlama1\ARMSTRONG SAYISI BULMA\bin\Debug\ARMSTRONG SAYISI BULMA.exe
+C:\Users\user\Desktop\gorselprogramlama1\ARMSTRONG SAYISI BULMA\bin\Debug\ARMSTRONG SAYISI BULMA.pdb
+C:\Users\user\Desktop\gorselprogramlama1\ARMSTRONG SAYISI BULMA\obj\Debug\ARMSTRONG SAYISI BULMA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\gorselprogramlama1\ARMSTRONG SAYISI BULMA\obj\Debug\ARMSTRONG_SAYISI_BULMA.Form1.resources
+C:\Users\user\Desktop\gorselprogramlama1\ARMSTRONG SAYISI BULMA\obj\Debug\ARMSTRONG_SAYISI_BULMA.Properties.Resources.resources
+C:\Users\user\Desktop\gorselprogramlama1\ARMSTRONG SAYISI BULMA\obj\Debug\ARMSTRONG SAYISI BULMA.csproj.GenerateResource.cache
+C:\Users\user\Desktop\gorselprogramlama1\ARMSTRONG SAYISI BULMA\obj\Debug\ARMSTRONG SAYISI BULMA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gorselprogramlama1\ARMSTRONG SAYISI BULMA\obj\Debug\ARMSTRONG SAYISI BULMA.exe
+C:\Users\user\Desktop\gorselprogramlama1\ARMSTRONG SAYISI BULMA\obj\Debug\ARMSTRONG SAYISI BULMA.pdb
